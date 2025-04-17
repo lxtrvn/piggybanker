@@ -1,3 +1,4 @@
+import credits.aleo;
 // The 'piggybanker' program.
 program piggybanker.aleo {
     const ADMIN: address = aleo1f6hhrs823257c4p8efy26cwp4fwga4wjl2s0383e52ngw3xhnq9q2dlwl7;

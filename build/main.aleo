@@ -1,3 +1,4 @@
+import credits.aleo;
 program piggybanker.aleo;
 
 mapping balance:
