@@ -139,6 +139,3 @@ program piggybanker.aleo {
 
 }
 
-
-
-}
